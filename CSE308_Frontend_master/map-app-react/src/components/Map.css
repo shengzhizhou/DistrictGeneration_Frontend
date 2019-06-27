@@ -1,0 +1,36 @@
+.precinctInfo {
+    height: 330px;
+    width: 200px;
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    opacity:0.8;
+    background-color: black;
+    border-radius: 5px;
+    box-shadow:0px 0px 10px 6px rgb(51, 204, 255);
+}
+.precinctInfo h4 {
+    margin: 0 0 5px;
+    color: greenyellow;
+}
+
+.precinctCustom .leaflet-popup-content-wrapper{
+    padding: 5px;
+    background: transparent;
+}
+.voteStyle {
+    color: white
+}
+.districtInfo {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    opacity:0.8;
+    background-color: black;
+    border-radius: 5px;
+}
+.districtInfo h4 {
+    margin: 0 0 5px;
+    color: greenyellow;
+}
+canvas{
+    background: black;
+}
